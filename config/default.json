@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb+srv://meet:Mehta%401997@cluster0.zntvi.mongodb.net/issuetracker?retryWrites=true",
+    "jwtsecret": "ssshhhh3234234",
+    "StripeAPIKey": "YOUR STRIPE SECRET API KEY"
+}
